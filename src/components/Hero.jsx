@@ -34,7 +34,7 @@ const Hero = () => {
       </div>
 
       <img
-        src="/mowafak1.jpeg"
+        src="/mowafak4.jpeg"
         alt="Mowafak Arida"
         className="h-40 w-40 shrink-0 rounded-full object-cover sm:h-56 sm:w-56"
       />
